@@ -159,10 +159,13 @@
         <encoding>UTF-8</encoding>
         <java-version>1.8</java-version>
     </properties>
-<modules>  <module>sample-env</module>
+  <modules>
+    <module>sample-env</module>
     <module>sample-domain</module>
     <module>sample-web</module>
+    <!-- 
     <module>sample-initdb</module>
     <module>sample-selenium</module>
+     -->
   </modules>
 </project>

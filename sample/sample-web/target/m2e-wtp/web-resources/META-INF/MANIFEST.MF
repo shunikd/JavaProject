@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: sample-web
+Implementation-Version: 1.0.0
+Built-By: sugur
+Implementation-Vendor-Id: com.nstcommunity.cloud.sample
+Build-Jdk: 1.8.0_241
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: TERASOLUNA Framework Team
+
